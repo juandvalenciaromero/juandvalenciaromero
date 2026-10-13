@@ -7,7 +7,6 @@ My current work focuses on field experiments (RCTs) that study how labor market 
 ### 🔬 Research
 - **Skill certifications and Migrant Labor Market Integration: Experimental evidence from Colombia** (with M. Busso, C. González-Velosa, J. Muñoz-Morales, J. Ruiz, and C. Van der Werf). Conditionally accepted via Pre-Results Review at the *Journal of Development Economics*.
 - **Signaling and Migrant Labor Market Integration: A Correspondence Study.** Over 18,000 synthetic resumes sent; ongoing.
-- **Bad Neighbors? How Massive Migration Reshapes Political Attitudes.** CEDE Working Paper, 2026.
 
 **Fields:** Labor Economics · Education · AI · Causal Inference
 
