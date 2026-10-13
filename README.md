@@ -10,9 +10,5 @@ My current work focuses on field experiments (RCTs) that study how labor market 
 
 **Fields:** Labor Economics · Education · AI · Causal Inference
 
-### 🛠️ Tools
-- **Languages:** Python, Stata, SQL, R, LaTeX
-- **Methods:** experimental design, shift-share and DiD designs, web scraping, NLP and LLM-based text classification, machine learning
-  
 ### 📫 Contact
 [Email](mailto:jd.valenciar@uniandes.edu.co) · [LinkedIn](https://www.linkedin.com/in/juandiegovalencia)
